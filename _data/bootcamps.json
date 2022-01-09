@@ -8,12 +8,15 @@
 		"phone": "(111) 111-1111",
 		"email": "enroll@devworks.com",
 		"address": "233 Bay State Rd Boston MA 02215",
-		"careers": ["Web Development", "UI/UX", "Business"],
+		"careers": [
+			"Web Development",
+			"UI/UX",
+			"Business"
+		],
 		"housing": true,
 		"jobAssistance": true,
 		"jobGuarantee": false,
-		"acceptGi": true,
-		"averageCost": 10000
+		"acceptGi": true
 	},
 	{
 		"_id": "5d713a66ec8f2b88b8f830b8",
@@ -24,12 +27,15 @@
 		"phone": "(222) 222-2222",
 		"email": "enroll@moderntech.com",
 		"address": "220 Pawtucket St, Lowell, MA 01854",
-		"careers": ["Web Development", "UI/UX", "Mobile Development"],
+		"careers": [
+			"Web Development",
+			"UI/UX",
+			"Mobile Development"
+		],
 		"housing": false,
 		"jobAssistance": true,
 		"jobGuarantee": false,
-		"acceptGi": true,
-		"averageCost": 12000
+		"acceptGi": true
 	},
 	{
 		"_id": "5d725a037b292f5f8ceff787",
@@ -40,12 +46,15 @@
 		"phone": "(333) 333-3333",
 		"email": "enroll@codemasters.com",
 		"address": "85 South Prospect Street Burlington VT 05405",
-		"careers": ["Web Development", "Data Science", "Business"],
+		"careers": [
+			"Web Development",
+			"Data Science",
+			"Business"
+		],
 		"housing": false,
 		"jobAssistance": false,
 		"jobGuarantee": false,
-		"acceptGi": false,
-		"averageCost": 8000
+		"acceptGi": false
 	},
 	{
 		"_id": "5d725a1b7b292f5f8ceff788",
@@ -65,7 +74,6 @@
 		"housing": false,
 		"jobAssistance": true,
 		"jobGuarantee": true,
-		"acceptGi": true,
-		"averageCost": 5000
+		"acceptGi": true
 	}
 ]
